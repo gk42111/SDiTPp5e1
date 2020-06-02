@@ -3,7 +3,7 @@
 
 
 
-Triangle::Triangle(int X, int Y, double Height) : Polygon(3 ,X, Y)
+Triangle::Triangle(int X, int Y, double Height) : Polygon(3, X, Y)
 {
 	this->Height = Height;
 }
